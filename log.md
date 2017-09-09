@@ -12,11 +12,21 @@
 3. [Random password generator](https://codepen.io/mdt2/pen/LjKzBb)
 
 
+### Day 2: September 8, Friday
+
+**Today's Progress**: "Gathering context" with ABC course, learned about Vue.js.
+
+**Thoughts** Vue.js is really fast and easy to set up.
+
+**Link(s) to work**
+1. [Vue.js video](https://youtu.be/D_z-RAweP1k)
+2. [Build an app with Vue.js](https://auth0.com/blog/build-an-app-with-vuejs/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Advanced+Beginner+Challenge%3A+JavaScript+Day+3&utm_campaign=JavaScript+Day+3) - I should come back to this when I have a better understanding of how to use a Webpack and Babel
+
 
 
 **Project Ideas**
-• Wishlist
-• FreeCodeCamp projects
-• Meal prep
-• Portfolio
-• ABC challenge
+1. Wishlist
+2. FreeCodeCamp projects
+3. Meal prep
+4. Portfolio
+5. ABC challenge
