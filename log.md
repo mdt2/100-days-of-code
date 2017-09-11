@@ -33,6 +33,17 @@
 1. [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&utm_source=ActiveCampaign&utm_medium=email&utm_content=Advanced+Beginner+Challenge%3A+JavaScript+Day+6&utm_campaign=JS+Day+6)
 
 
+### Day 4: September 10, Sunday
+
+**Today's Progress**: Redid FreeCodeCamp with recursion. Worked a FreeCodeCamp regular expressions problem.
+
+**Thoughts** Recursion reminds me a little of JS event loop in the way that it goes all the way into something and then all the way back out. "There's nothing that HAS to be solved with recursion." Regular expressions are really challenging right now, so I need to revisit eventually.
+
+**Link(s) to work**
+1. [Regular Expressions Cheatsheet](http://regexr.com/)
+2. [FreeCodeCamp Palindromes exercise](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
+
 
 **Project Ideas**
 1. Wishlist
