@@ -37,11 +37,29 @@
 
 **Today's Progress**: Redid FreeCodeCamp with recursion. Worked a FreeCodeCamp regular expressions problem.
 
-**Thoughts** Recursion reminds me a little of JS event loop in the way that it goes all the way into something and then all the way back out. "There's nothing that HAS to be solved with recursion." Regular expressions are really challenging right now, so I need to revisit eventually.
+**Thoughts**: Recursion reminds me a little of JS event loop in the way that it goes all the way into something and then all the way back out. "There's nothing that HAS to be solved with recursion." Regular expressions are really challenging right now, so I need to revisit eventually.
 
 **Link(s) to work**
 1. [Regular Expressions Cheatsheet](http://regexr.com/)
 2. [FreeCodeCamp Palindromes exercise](https://www.freecodecamp.org/challenges/check-for-palindromes)
+
+
+### Day 5-6: September 12, Tuesday
+
+**Today's Progress**: Worked through more FreeCodeCamp basic algorithm writing and read Chapter 1 of Problem Solving 101.
+
+**Thoughts**: Had some frustration today during algorithm practice. I think Problem Solving 101 will be a good way to get into a permanent, whole mindset of problem solving.
+
+
+### Day 7: September 13, Wednesday
+
+**Today's Progress**: Rejoined Treehouse and started the React basics course. Also read Chapter 1 of Eloquent JS.
+
+**Thoughts** There's a lot more to Javascript than I realized, Eloquent JS will be a good way to expose myself to some computer science information I may not otherwise see.
+
+**Link(s) to work**
+1. [Eloquent JavaScript](http://eloquentjavascript.net/01_values.html)
+
 
 
 
