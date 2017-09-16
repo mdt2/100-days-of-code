@@ -61,6 +61,24 @@
 1. [Eloquent JavaScript](http://eloquentjavascript.net/01_values.html)
 
 
+### Day 8: September 14, Thursday
+
+**Today's Progress**: Continued React.js course on Treehouse.
+
+**Thoughts** React's layout is very different from any other language or framework I've seen. Interested to learn more.
+
+
+### Day 9: September 15, Friday
+
+**Today's Progress**: Watched some Fun Fun Function videos about dev habits and DevTips on what to learn next, jQuery, and how to keep up a web presence with my work.
+
+**Thoughts** Feeling pretty sick and tired with a cold today so I'm taking it easy. Frustration is normal and it's there to help, gotta perservere. Have to make sure I'm not too bored or challenging myself to a point where I'm stressed. Find the "flow" state
+
+**Link(s) to work**
+1. [Top 8 Dev Habits](https://www.youtube.com/playlist?list=PL0zVEGEvSaeGY3RMjGo4CgMPN42_U9Glu)
+2. [What should you learn next](https://www.youtube.com/watch?v=mUrrym5VR5g)
+
+
 
 
 **Project Ideas**
