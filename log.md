@@ -79,6 +79,15 @@
 2. [What should you learn next](https://www.youtube.com/watch?v=mUrrym5VR5g)
 
 
+### Day 10: September 16, Saturday
+
+**Today's Progress**: Started random quote machine project from FreeCodeCamp. Learning about connecting to APIs using jQuery.
+
+**Thoughts** Using jQuery AJAX shortcut since native JS is messy. 
+
+**Link(s) to work**
+1. [RQM Codepen](https://codepen.io/mdt2/pen/mBeWww)
+
 
 
 **Project Ideas**
