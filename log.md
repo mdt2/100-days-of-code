@@ -89,6 +89,22 @@
 1. [RQM Codepen](https://codepen.io/mdt2/pen/mBeWww)
 
 
+### Day 11: September 17, Sunday
+
+**Today's Progress**: Ch 2 of Eloquent JS.
+
+**Thoughts** I like the vars to tentacles comparison.
+
+
+### Day 12: September 18, Monday
+
+**Today's Progress**: Finished random quote machine and added a color changing background.
+
+**Thoughts** Need to work on more jQuery.
+
+**Link(s) to work**
+1. [RQM Codepen](https://goo.gl/3u5kDV)
+
 
 **Project Ideas**
 1. Wishlist
