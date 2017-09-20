@@ -106,6 +106,16 @@
 1. [RQM Codepen](https://goo.gl/3u5kDV)
 
 
+### Day 13: September 19, Tuesday
+
+**Today's Progress**: Adjusted box transition in RQM, watched some DevTips videos on learning jQuery in 15 mins.
+
+**Thoughts** Need to check out the "Killin it with jQuery" series.
+
+**Link(s) to work**
+1. [RQM Codepen](https://goo.gl/3u5kDV)
+
+
 **Project Ideas**
 1. Wishlist
 2. FreeCodeCamp projects
