@@ -116,6 +116,22 @@
 1. [RQM Codepen](https://goo.gl/3u5kDV)
 
 
+### Day 14: September 20, Wednesday
+
+**Today's Progress**: Watched DevTips bootstrap.
+
+**Thoughts** Need to start working on coding earlier so I'm not so sleepy.
+
+
+### Day 15: September 21, Thursday
+
+**Today's Progress**: JavaScript30 Day 1, drumkit.
+
+**Thoughts** Need to figure out how to structure my learning with JS30 so that I'm applying myself more. Coding with him doesn't seem to work.
+
+
+
+
 **Project Ideas**
 1. Wishlist
 2. FreeCodeCamp projects
