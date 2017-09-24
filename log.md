@@ -130,6 +130,17 @@
 **Thoughts** Need to figure out how to structure my learning with JS30 so that I'm applying myself more. Coding with him doesn't seem to work.
 
 
+### Day 16: September 22, Friday
+
+**Today's Progress**: Eloquent JS chapter 3.
+
+###Day 17: September 23, Saturday
+
+**Today's Progress**: JS clock for Javascript30 Day 2.
+
+**Thoughts** I'm trying to recreate the start files to challenge myself with these projects more. Maybe I'll make a digital clock after I'm done working through the analog clock exercise.
+
+
 
 
 **Project Ideas**
