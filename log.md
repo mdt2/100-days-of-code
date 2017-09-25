@@ -134,7 +134,7 @@
 
 **Today's Progress**: Eloquent JS chapter 3.
 
-###Day 17: September 23, Saturday
+### Day 17: September 23, Saturday
 
 **Today's Progress**: JS clock for Javascript30 Day 2.
 
