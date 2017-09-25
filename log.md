@@ -141,6 +141,13 @@
 **Thoughts** I'm trying to recreate the start files to challenge myself with these projects more. Maybe I'll make a digital clock after I'm done working through the analog clock exercise.
 
 
+### Day 18: September 24, Sunday
+
+**Today's Progress**: Finished up the JS clock.
+
+**Thoughts** Shouldn't work in codepen for JS projects in the future.
+
+
 
 
 **Project Ideas**
