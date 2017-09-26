@@ -148,6 +148,13 @@
 **Thoughts** Shouldn't work in codepen for JS projects in the future.
 
 
+### Day 19: September 25, Monday
+
+**Today's Progress**: Made a digital JS clock from what I learned from the analog JavaScript30 clock.
+
+**Thoughts** Need to get my portfolio site up so I can start hosting this stuff somewhere for feedback. Or at least get a blog coded out to use with the domain to share my code. Today was super fun and I think I really solidified my knowledge of what we worked on for JS30 day 2.
+
+
 
 
 **Project Ideas**
