@@ -155,6 +155,20 @@
 **Thoughts** Need to get my portfolio site up so I can start hosting this stuff somewhere for feedback. Or at least get a blog coded out to use with the domain to share my code. Today was super fun and I think I really solidified my knowledge of what we worked on for JS30 day 2.
 
 
+### Day 20: September 26, Tuesday
+
+**Today's Progress**: Starting watching Fun Fun Function object creation playlist.
+
+**Thoughts** Working on getting fundamentals solid so that I fully understand what I'm doing with JavaScript.
+
+
+### Day 21: September 27, Wednesday
+
+**Today's Progress**: Working on adding a button to change between 24 and 12 hour clock.
+
+**Thoughts** It's frustrating to have to ask for so much help. It takes away from the feeling of accomplishment at the end of a project because I feel like it's not even me doing it, but I don't know how to bridge the knowledge gap when I literally have no idea where to go from a problem point. 
+
+
 
 
 **Project Ideas**
