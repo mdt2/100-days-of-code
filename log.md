@@ -169,6 +169,14 @@
 **Thoughts** It's frustrating to have to ask for so much help. It takes away from the feeling of accomplishment at the end of a project because I feel like it's not even me doing it, but I don't know how to bridge the knowledge gap when I literally have no idea where to go from a problem point. 
 
 
+### Day 22: September 29, Friday
+
+**Today's Progress**: JS30 Day 3, learning about CSS variables and JS.
+
+**Thoughts** Now I know the difference between NodeList and arrays (they're just different types of objects with different methods attached to them). Learned more about template literals vs. concatenation.
+<br>The control of CSS using JS variables could be cool to use for a colorblind profile on a website. Or user customizable stuff for themes and things.
+
+
 
 
 **Project Ideas**
