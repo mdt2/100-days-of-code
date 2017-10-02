@@ -177,6 +177,20 @@
 <br>The control of CSS using JS variables could be cool to use for a colorblind profile on a website. Or user customizable stuff for themes and things.
 
 
+### Day 23: September 30, Saturday
+
+**Today's Progress**: Fun Fun Function videos on prototypes and how "new" works under the hood.
+
+**Thoughts** Need to revisit this, maybe try  to use it. Had trouble understanding.
+
+
+### Day 24: October 1, Sunday
+
+**Today's Progress**: Started Hacktoberfest with some UX enhancements, jQuery show/hide, code cleanup.
+
+**Thoughts** Excited about my first PR ever on GitHub. I like the exposure to other people's code, too, it'll be important to have that skill when I start job searching.
+
+
 
 
 **Project Ideas**
