@@ -192,6 +192,26 @@
 
 
 
+### Day 25: October 2, Monday
+
+**Today's Progress**: Looking at CodePens and working on hamburger menus.
+
+**Thoughts** Need to learn CSS transforms and animations...
+
+
+### Day 26: October 4, Tuesday
+
+**Today's Progress**: Made a set of transforming hamburger menus using a YouTube tutorial and inspiration from other CodePens.
+
+**Thoughts** Now I need to learn 3D animations!
+
+
+**Link(s) to work**
+1. [YouTube Tutorial](https://www.youtube.com/watch?v=U17mz-RFfAY)
+2. [Hamburger Menu CodePen](https://t.co/yRWJP5DP17)
+
+
+
 
 **Project Ideas**
 1. Wishlist
