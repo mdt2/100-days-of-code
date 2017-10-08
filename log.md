@@ -205,11 +205,30 @@
 
 **Thoughts** Now I need to learn 3D animations!
 
-
 **Link(s) to work**
 1. [YouTube Tutorial](https://www.youtube.com/watch?v=U17mz-RFfAY)
 2. [Hamburger Menu CodePen](https://t.co/yRWJP5DP17)
 
+
+### Day 27: October 5, Wednesday
+
+**Today's Progress**: Wrestled SVGs
+
+**Thoughts** Trying to learn differen methods of creating hamburger menus and animating. Someone on twitter suggested SVGs because they don't have any artifacting, having trouble animating them.
+
+
+### Day 28: October 6, Thursday
+
+**Today's Progress**: Wrestled SVGs some more.
+
+**Thoughts** Read an article about transforms and worked with the jQuery to make the click function more concise.
+
+
+### Day 29: October 8, Saturday
+
+**Today's Progress**: Second PR for Hacktoberfest, working with JS
+
+**Thoughts** Changed default to hide adult content on Anime Today site, toggled button text.
 
 
 
