@@ -246,7 +246,7 @@
 **Thoughts** Looked at a guy's portfolio site and made some changes to links and HTML. Updating copy to make it more approachable. For portfolio, need to get a solid design down and then start coding it out.
 
 
-### Day 33: October 10, Tuesday
+### Day 32: October 10, Tuesday
 
 **Today's Progress**: Sidebar exploration for portfolio navigation on codepen.
 
