@@ -199,7 +199,7 @@
 **Thoughts** Need to learn CSS transforms and animations...
 
 
-### Day 26: October 4, Tuesday
+### Day 26: October 3, Tuesday
 
 **Today's Progress**: Made a set of transforming hamburger menus using a YouTube tutorial and inspiration from other CodePens.
 
@@ -210,21 +210,21 @@
 2. [Hamburger Menu CodePen](https://t.co/yRWJP5DP17)
 
 
-### Day 27: October 5, Wednesday
+### Day 27: October 4, Wednesday
 
 **Today's Progress**: Wrestled SVGs
 
 **Thoughts** Trying to learn differen methods of creating hamburger menus and animating. Someone on twitter suggested SVGs because they don't have any artifacting, having trouble animating them.
 
 
-### Day 28: October 6, Thursday
+### Day 28: October 5, Thursday
 
 **Today's Progress**: Wrestled SVGs some more.
 
 **Thoughts** Read an article about transforms and worked with the jQuery to make the click function more concise.
 
 
-### Day 29: October 8, Saturday
+### Day 29: October 7, Saturday
 
 **Today's Progress**: Second PR for Hacktoberfest, working with JS
 
@@ -232,21 +232,21 @@
 
 
 
-### Day 30: October 9, Sunday
+### Day 30: October 8, Sunday
 
 **Today's Progress**: Third PR for Hacktoberfest, working with JS
 
 **Thoughts** Update link in Github Favorites extension to direct to org and repo seperately.
 
 
-### Day 31: October 10, Monday
+### Day 31: October 9, Monday
 
 **Today's Progress**: Fourth PR for Hacktoberfest, UX and copy changes. Also started work on portfolio site
 
 **Thoughts** Looked at a guy's portfolio site and made some changes to links and HTML. Updating copy to make it more approachable. For portfolio, need to get a solid design down and then start coding it out.
 
 
-### Day 33: October 11, Tuesday
+### Day 33: October 10, Tuesday
 
 **Today's Progress**: Sidebar exploration for portfolio navigation on codepen.
 
