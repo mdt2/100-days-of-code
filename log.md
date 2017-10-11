@@ -232,6 +232,30 @@
 
 
 
+### Day 30: October 9, Sunday
+
+**Today's Progress**: Third PR for Hacktoberfest, working with JS
+
+**Thoughts** Update link in Github Favorites extension to direct to org and repo seperately.
+
+
+### Day 31: October 10, Monday
+
+**Today's Progress**: Fourth PR for Hacktoberfest, UX and copy changes. Also started work on portfolio site
+
+**Thoughts** Looked at a guy's portfolio site and made some changes to links and HTML. Updating copy to make it more approachable. For portfolio, need to get a solid design down and then start coding it out.
+
+
+### Day 33: October 11, Tuesday
+
+**Today's Progress**: Sidebar exploration for portfolio navigation on codepen.
+
+**Thoughts** Need to take some time outside of coding to design portfolio.
+
+**Link(s) to work**
+1. [Sidebar codepen](https://codepen.io/mdt2/pen/oGyjPb?editors=1100)
+
+
 **Project Ideas**
 1. Wishlist
 2. FreeCodeCamp projects
