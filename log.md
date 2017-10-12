@@ -256,6 +256,16 @@
 1. [Sidebar codepen](https://codepen.io/mdt2/pen/oGyjPb?editors=1100)
 
 
+
+### Day 33: October 11, Wednesday
+
+**Today's Progress**: Watching coding videos.
+
+**Thoughts** Too tired for anything else tonight. Busy week at school. Feeling unmotivated today.
+
+
+
+
 **Project Ideas**
 1. Wishlist
 2. FreeCodeCamp projects
