@@ -264,6 +264,30 @@
 **Thoughts** Too tired for anything else tonight. Busy week at school. Feeling unmotivated today.
 
 
+### Day 34: October 12, Thursday
+
+**Today's Progress**: Inspired by an article about program thinking to create a sidebar that opens on click.
+
+**Thoughts** I want to make a library from this for sidebars and put it on GitHub!
+
+**Link(s) to work**
+1. [Article that inspired me](https://medium.freecodecamp.org/how-to-think-like-a-programmer-3ae955d414cd)
+
+
+### Day 35: October 13, Friday
+
+**Today's Progress**: Worked a bit on the sidebar before classes
+
+
+### Day 36: October 14, Saturday
+
+**Today's Progress**: Started making the sidebar dynamic.
+
+**Thoughts** Added functions to detect height of screen, adding list items, styling the list items. Wondering why you can't have one function and pass parameters for all styling. Because if you have color and font size, you have to pass both parameters, you can't just pass one that you want to change...
+
+
+
+
 
 
 **Project Ideas**
