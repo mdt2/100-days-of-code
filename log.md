@@ -286,9 +286,78 @@
 **Thoughts** Added functions to detect height of screen, adding list items, styling the list items. Wondering why you can't have one function and pass parameters for all styling. Because if you have color and font size, you have to pass both parameters, you can't just pass one that you want to change...
 
 
+### Day 37: October 15, Sunday
+
+**Today's Progress**: More drawer work.
+
+**Thoughts** Finished up all the helper functions like adding list items and styling them. Just made separate functions for all of them.
 
 
+### Day 38: October 16, Monday
 
+**Today's Progress**: More drawer work, using a builder pattern to make it more like a library.
+
+**Thoughts** Refactoring code and fixing bugs that arose with the builder pattern.
+
+
+### Day 39: October 17, Tuesday
+
+**Today's Progress**: Finished up the drawer and put it on GitHub!
+
+**Thoughts** I want to do more open source, this was a good way to practice JS.
+
+
+### Day 40: October 18, Wednesday
+
+**Today's Progress**: Read some articles on licensing, ES7, ES6 generators.
+
+**Thoughts** Should spend more time reading.
+
+
+### Day 41: October 20, Friday
+
+**Today's Progress**: Started learning canvas.
+
+**Thoughts** I want to learn to do cool stuff like in the CodePen below:
+
+**Links** 
+1. [Canvas codepen](https://codepen.io/valhead/pen/NABYow?editors=0010)
+
+### Day 42: October 21, Saturday
+
+**Today's Progress**: More work on canvas, going through game dev tutorials.
+
+**Thoughts** I want to learn to do cool stuff like in the CodePen below:
+
+**Links** 
+1. [Game dev tutorial](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
+2. [My codepen for the tutorial](https://codepen.io/mdt2/pen/MERmoE?editors=0010)
+
+
+### Day 43: October 22, Sunday
+
+**Today's Progress**: More work on canvas, canvas paint tool.
+
+**Links** 
+1. [Paint tool](https://codepen.io/mdt2/pen/QqPoPZ)
+
+
+### Day 44: October 23, Monday
+
+**Today's Progress**: Reviewed context stuff, like event loop and scope and hoisting.
+
+**Links** 
+1. [10 things to know about JS to get a job](https://www.codementor.io/arnavaggrwl/10-javascript-concepts-you-need-to-know-for-interviews-b6j6kp1y1?utm_content=bufferfef26&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+
+### Day 45: October 25, Wednesday
+
+**Today's Progress**: More JS fundamentals work, learning about closures.
+
+**Thoughts** Confused about why they're so important. I think I'm starting to grasp it as I slowly work through this article:
+
+**Links** 
+1. [JS Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
 
 **Project Ideas**
 1. Wishlist
