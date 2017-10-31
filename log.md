@@ -359,6 +359,14 @@
 **Links** 
 1. [JS Closures](https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44)
 
+### Day 46: October 30, Monday
+
+**Today's Progress**: Watched a few JavaScript30 videos. Learning about hsl() and gaining more understanding about template literals. Also went over some handy tools to use in the console. Read an article about APIs and was confused.
+
+**Thoughts** I got off track for a few days because of Halloween and plans and the football game. I was also really discouraged when I heard a girl in a similar position to me wasn't even being acknowledged by any of the junior dev jobs she applied to. I can't let that stop me though, going to keep on chugging through the rest of this challenge.
+
+
+
 **Project Ideas**
 1. Wishlist
 2. FreeCodeCamp projects
