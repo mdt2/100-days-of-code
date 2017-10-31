@@ -366,11 +366,19 @@
 **Thoughts** I got off track for a few days because of Halloween and plans and the football game. I was also really discouraged when I heard a girl in a similar position to me wasn't even being acknowledged by any of the junior dev jobs she applied to. I can't let that stop me though, going to keep on chugging through the rest of this challenge.
 
 
+### Day 47: October 31, Tuesday
+
+**Today's Progress**: JavaScript30 flexbox video and checkbox shift video. Signed up for Wes's full flexbox course to try to master that.
+
+**Thoughts** The checkbox shift video was difficult. Wes asked us to try it ourselves first, so I did some searching and found the answer, but it didn't make any sense to me. I had to watch the whole video to know where to go next. How do you tackle a JS problem when you don't even know where to start?
+
+
 
 **Project Ideas**
-1. Wishlist
-2. FreeCodeCamp projects
-3. Meal prep
-4. Portfolio
-5. ABC challenge
-6. Bootstrap
+1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
+2. Wishlist
+3. FreeCodeCamp projects
+4. Meal prep
+5. Portfolio
+6. ABC challenge
+7. Bootstrap
