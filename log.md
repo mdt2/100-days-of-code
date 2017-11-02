@@ -373,6 +373,16 @@
 **Thoughts** The checkbox shift video was difficult. Wes asked us to try it ourselves first, so I did some searching and found the answer, but it didn't make any sense to me. I had to watch the whole video to know where to go next. How do you tackle a JS problem when you don't even know where to start?
 
 
+### Day 48: November 1, Wednesday
+
+**Today's Progress**: Flexbox zombies as recommended by Andrew! Went over flex-direction and justify-content
+
+**Thoughts** I always get confused when I want to use flexbox because I have to look back at the docs every time. This course seems like it will actually hold true to it's promise that I'll never have to look at docs for flexbox again. Loving the mastery learning approach.
+
+**Links**
+1. [Flexbox zombies](https://t.co/V327jBC0v9)
+
+
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
