@@ -383,6 +383,47 @@
 1. [Flexbox zombies](https://t.co/V327jBC0v9)
 
 
+### Day 49: November 2, Thursday
+
+**Today's Progress**: Flexbox zombies continued, also talked jobs with Andrew and read an article on Medium about how to prepare for dev job interviews
+
+**Thoughts** I should start practicing the front end questions on the GitHub repo
+
+**Links**
+1. [Medium article on getting a dev job](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+2. [Front end job interview questions repo](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+
+### Day 50: November 3, Friday
+
+**Today's Progress**: Flexbox zombies continued. Also did a CodeWars square number challenge.
+
+**Thoughts** CodeWars intimidates me a lot and I'm not sure why.
+
+
+### Day 51: November 4, Saturday
+
+**Today's Progress**: Flexbox zombies continued. More algorithm design with CodeWars.
+
+**Thoughts** I figured out why CodeWars intimidates me. It's because algorithm design is such a different way of thinking for me, but one that I really need to practice.
+
+
+### Day 52: November 5, Sunday
+
+**Today's Progress**: Extra flexbox zombies.
+
+**Thoughts** Almost finished. I went back over a few lessons to make sure I really remember everything.
+
+
+### Day 53: November 6, Monday
+
+**Today's Progress**: More flexbox zombies. Also read some Medium articles about getting junior dev job ready and found a guide on GitHub.
+
+**Thoughts** I'm going to start working through this guide. My goal is to have at least half of it completed by the end of this round of 100DaysOfCode.
+
+**Links**
+1. [Guide on GitHub](https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md)
+
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
