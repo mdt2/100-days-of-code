@@ -425,6 +425,13 @@
 1. [Guide on GitHub](https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md)
 
 
+### Day 54: November 7, Tuesday
+
+**Today's Progress**: Finished flexbox zombies and started coding portfolio site!
+
+**Thoughts** Got all done with the landing page. Faced some challenges with positioning and flexbox and figured out how those work together (need a position:relative wrapper div around the display:flex and position:absolute flexbox div). Explore a normalize.css tomorrow that Austin told me about?
+
+
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
 2. Wishlist
