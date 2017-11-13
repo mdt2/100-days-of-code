@@ -431,6 +431,33 @@
 
 **Thoughts** Got all done with the landing page. Faced some challenges with positioning and flexbox and figured out how those work together (need a position:relative wrapper div around the display:flex and position:absolute flexbox div). Explore a normalize.css tomorrow that Austin told me about?
 
+### Day 55: November 9, Thursday
+
+**Today's Progress**: Worked on portfolio site coding and helped Amanda and Katie do some coding on their own portfolio sites.
+
+**Thoughts** Starting working on the work page and ran into some sizing issues with flexbox that were challenging. But I got that all figured out. Need to look into a CSS slider to show to Katie for her portfolio site. Hoping I can learn it and then teach her to solidify the learning.
+
+### Day 56: November 10, Friday
+
+**Today's Progress**: Worked on portfolio site coding more.
+
+**Thoughts** Finished up the work section.
+
+### Day 57: November 11, Saturday
+
+**Today's Progress**: Worked on portfolio site coding.
+
+**Thoughts** Finished up the desktop version, need to go back and add button functionality and media queries where it isn't automatically responsive.
+
+### Day 58: November 12, Sunday
+
+**Today's Progress**: Learned about CSS Grids.
+
+**Thoughts** Read an article comparing it to flexbox and finished Grid Garden. Wasn't a huge fan of it, I don't think it does as good a job as it could as far as making you really learn it and understand what you're doing. I also couldn't see many actual applications from the game, but the article helped show me that.
+
+**Links**
+1. [CSS Grids vs Flexbox article](https://aerolab.co/blog/flexbox-grids/?ref=webdesignernews.com)
+
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
