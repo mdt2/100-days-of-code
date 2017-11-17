@@ -459,6 +459,19 @@
 1. [CSS Grids vs Flexbox article](https://aerolab.co/blog/flexbox-grids/?ref=webdesignernews.com)
 
 
+### Day 59: November 14, Tuesday
+
+**Today's Progress**: Back to portfolio coding. Added functionality to the button with JS and found a way to do a smooth scroll between sections.
+
+**Thoughts** The fact that you can't add an href to a button element is confusing. Also not happy with the smooth scroll, but my headache is so bad I just can't continue tonight.
+
+### Day 60: November 16, Thursday
+
+**Today's Progress**: Finished up adding media queries and debugging portfolio site. Set up hosting on AWS with S3 and added Google Analytics to the page.
+
+**Thoughts** Need to share on Twitter in a couple of days when the DNS is all set. 
+
+
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
 2. Wishlist
