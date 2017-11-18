@@ -471,6 +471,12 @@
 
 **Thoughts** Need to share on Twitter in a couple of days when the DNS is all set. 
 
+### Day 61: November 17, Friday
+
+**Today's Progress**: Switched media queries over to mixins with sass.
+
+**Thoughts** Mixins are cool and they forced me to be really picky about where I set my breakpoints. Interested in adding some very subtle paralax for desktop experience to make background changes smoother. Looks too harsh, especially where portfolio meets about.
+
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
