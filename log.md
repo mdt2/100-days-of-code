@@ -477,6 +477,21 @@
 
 **Thoughts** Mixins are cool and they forced me to be really picky about where I set my breakpoints. Interested in adding some very subtle paralax for desktop experience to make background changes smoother. Looks too harsh, especially where portfolio meets about.
 
+### Day 62: November 21, Tuesday
+
+**Today's Progress**: Started the CS50 course on edX as recommended by the p1xt job ready javascript edition.
+
+**Thoughts** Need to schedule coding time in earlier in the day. Too sleepy.
+
+### Day 63: November 22, Wednesday
+
+**Today's Progress**: Finished week 0 of CS50, working with logic with Scratch.
+
+**Thoughts** Not a huge fan of Scratch since I'm already familiar, but it was a good way to practice some psuedo coding.
+
+**Links**
+1. [Squirrel game](https://scratch.mit.edu/projects/188187151)
+
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
