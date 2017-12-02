@@ -477,6 +477,8 @@
 
 **Thoughts** Mixins are cool and they forced me to be really picky about where I set my breakpoints. Interested in adding some very subtle paralax for desktop experience to make background changes smoother. Looks too harsh, especially where portfolio meets about.
 
+**Links**: [100% correct way to do media queries](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862)
+
 ### Day 62: November 21, Tuesday
 
 **Today's Progress**: Started the CS50 course on edX as recommended by the p1xt job ready javascript edition.
@@ -491,6 +493,52 @@
 
 **Links**
 1. [Squirrel game](https://scratch.mit.edu/projects/188187151)
+
+### Day 64: November 23, Thursday
+
+**Today's Progress**: Started week 1 lecture of CS50.
+
+**Thoughts** I can't wait for winter break so that I can spend more time coding.
+
+### Day 65: November 24, Friday
+
+**Today's Progress**: Continued week 1 lecture and made updates to portfolio site.
+
+**Thoughts** Thinking about changing the design of my portfolio site to incorporate more contrast between sections.
+
+### Day 66: November 26, Sunday
+
+**Today's Progress**: Finished week 1 lecture for CS50. Learning about how code goes from what I write to binary through preprocessing, compiling, assembling, and linking. Started watching Cassidy William's JS and React course on Udemy.
+
+### Day 67: November 27, Monday
+
+**Today's Progress**: Read an article on HTML emails and accessibility, and one on Netflix replacing React on their marketing page, both via CSS tricks. Then looked at the problem set for week 1 CS50 and skipped on to start the week 2 lecture.
+
+**Thoughts** I should go back and do the problem set for week 1 when I have more energy. So much due at the end of the semester :(
+
+### Day 68: November 28, Tuesday
+
+**Today's Progress**: Worked for a few hours on problem set 1. Almost finished it but the "greedy" exercise stumped me. Going to finish tomorrow.
+
+**Thoughts** Hopefully I'll get some help from a fellow 100daysofcode participant by the time I pick it up again tomorrow. I think the problem is where I'm trying to turn a float into an integer and round it. I don't think I'm doing it right.
+
+### Day 69: November 29, Wednesday
+
+**Today's Progress**: Finished up problem set 1 and started lecture for week 2.
+
+**Thoughts** I wish I'd known the debugging stuff that he talked about in week 2's lecture while I was struggling with "greedy," but it will be good to know moving forward.
+
+### Day 70: November 30, Thursday
+
+**Today's Progress**: Finished lecture for week 1 and redesigned and recoded the portfolio part of the site.
+
+**Thoughts** Being able to pass more than one int in a for loop was new and interesting to me. Something like for (int i = 0, n = strlen; i < n; i++) works more effectively than passing strlen in the second argument because you're not asking the computer to count the length every time the loop iterates.
+
+### Day 71: December 1, Friday
+
+**Today's Progress**: Made CSS Grid on my portfolio section responsive.
+
+**Thoughts** This was tough. I'm glad I used Grid to get an idea of how it works but there are lots of quirks. Like how I couldn't get grid-gap to work with a percentage for the rows, but it worked with a percentage on the columns. Frustrating, but finally got everything all set. Collaborated with Austin a lot to figure out the problems and think through logically what was going on.
 
 
 **Project Ideas**
