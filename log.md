@@ -538,8 +538,75 @@
 
 **Today's Progress**: Made CSS Grid on my portfolio section responsive.
 
-**Thoughts** This was tough. I'm glad I used Grid to get an idea of how it works but there are lots of quirks. Like how I couldn't get grid-gap to work with a percentage for the rows, but it worked with a percentage on the columns. Frustrating, but finally got everything all set. Collaborated with Austin a lot to figure out the problems and think through logically what was going on.
+**Thoughts** This was tough. I'm glad I used Grid to get an idea of how it works but there are lots of quirks. Like how I couldn't get grid-gap to work with a percentage for the rows, but it worked with a percentage on the columns. Frustrating, but finally got everything all set. Collaborated with Austin a lot to figure out the problems and think through logically what was going on. Going to add some hover effects tomorrow and maybe start working on case studies.
 
+### Day 72: December 2, Saturday
+
+**Today's Progress**: Looking into hover effects for portfolio and thinking about what to do for mobile.
+
+**Thoughts** Didn't get a lot done today, just thinking and searching for examples mostly.
+
+**Links**
+1. [Hover effect](https://miketricking.github.io/bootstrap-image-hover/)
+2. [Stack overflow css hover](https://stackoverflow.com/questions/18322548/black-transparent-overlay-on-image-hover-with-only-css)
+3. [A hover I used on another portfolio site](https://codepen.io/mdt2/pen/VmbwJY?editors=1100)
+
+### Day 73: December 3, Sunday
+
+**Today's Progress**: Started implementing a hover effect I found premade and tailoring it for my site.
+
+**Thoughts** Still not sure what I'm going to do for the mobile experience. Maybe I'll add a label in a similar style at the bottom of each image.
+
+### Day 74: December 5, Tuesday
+
+**Today's Progress**: Finished up tailoring the hover effect on the website. Still exploring mobile.
+
+**Thoughts** Feeling sick today with a headcold and have a headache. Want to work more on this when I'm feeling better and not slacking.
+
+### Day 75: December 6, Wednesday
+
+**Today's Progress**: Taught Katie how to do media queries and worked with her on her site.
+
+**Thoughts** From working with Katie I've found how important it is that beginners know how to write clean code. That's something I think our instructor should have mentioned before newbies started working on the project.
+
+### Day 75: December 6, Wednesday
+
+**Today's Progress**: Taught Katie how to do media queries and worked with her on her site.
+
+**Thoughts** From working with Katie I've found how important it is that beginners know how to write clean code. That's something I think our instructor should have mentioned before newbies started working on the project.
+
+### Day 76: December 7, Thursday
+
+**Today's Progress**: Worked on portfolio site and helped Katie and Amanda in class.
+
+**Thoughts** I'll really miss the UX class and the opportunity to code along with other people. Maybe I can join a meetup group and go to something regularly next semester.
+
+### Day 77: December 10, Sunday
+
+**Today's Progress**: Completed the case study design and dev for my portfolio.
+
+**Thoughts** Missed a couple days due to late nights and moving Austin. Got motivated today by reading a story of someone who got a job with only 9 months of coding under their belt.
+
+**Links**
+1. [Landing your first coding job](https://medium.freecodecamp.org/how-i-set-myself-up-to-land-my-first-job-as-a-self-taught-developer-43d326ea6b67)
+
+### Day 78: December 11, Monday
+
+**Today's Progress**: Watched lecture 3 for CS50.
+
+**Thoughts** This week will be challenging with finals and the challenge.
+
+### Day 79: December 12, Tuesday
+
+**Today's Progress**: Completed initials.c for problem set 2 for CS50.
+
+**Thoughts** I really struggled with this but when I finally reached the solution I actually understood it. Hooray for baby steps in C.
+
+### Day 80: December 13, Wednesday
+
+**Today's Progress**: Updated some images on the case study page of my website. Started thinking about how to implement caesar.c for CS50.
+
+**Thoughts** Could add a subheader saying "view case study" to differentiate between them.
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
