@@ -608,6 +608,27 @@
 
 **Thoughts** Could add a subheader saying "view case study" to differentiate between them.
 
+### Day 81: December 14, Thursday
+
+**Today's Progress**: Starting reading and watching tutorials about using APIs.
+
+**Thoughts** It was a short day due to two finals.
+
+### Day 82: December 15, Friday
+
+**Today's Progress**: Started to use the open weather api to make a weather app.
+
+**Thoughts** I have to be careful with the tutorial I'm using because he uses p5.js, just need to know the difference between that and vanilla JS.
+
+**Links**
+1. [Tutorial playlist](https://www.youtube.com/watch?v=rJaXOFfwGVw)
+
+### Day 83: December 16, Saturday
+
+**Today's Progress**: Got the weather api up and running in the project so I can start working with the data and UI.
+
+**Thoughts** Ran into some problems with using "location" as a variable and it changing the url because that's the location on the browser.
+
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
 2. Wishlist
