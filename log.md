@@ -629,6 +629,32 @@
 
 **Thoughts** Ran into some problems with using "location" as a variable and it changing the url because that's the location on the browser.
 
+### Day 84: December 17, Sunday
+
+**Today's Progress**: Figured out how to grab the pieces of data and print them out. Started adding a button to change between F and C.
+
+**Thoughts** Wasn't as hard as I thought to get the data once the API is set up. Got too tired to think anymore tonight.
+
+### Day 85: December 18, Monday
+
+**Today's Progress**: Completed the button to switch from F to C
+
+**Thoughts**: Couldn't figure out how to add the logic to the button without making a new API call every time.
+
+### Day 86: December 20, Wednesday
+
+**Today's Progress**: Figured out the button logic. Switched over the whole project from the Open Weather API to FreeCodeCamp's weather API so that it would be a secure connection to request geolocation information.
+
+**Thoughts**: Today was a long day. Tomorrow I'll work more on changing the background image based on weather description and add more basic styling to the app.
+
+### Day 87: December 21, Thursday
+
+**Today's Progress**: Added additional styling, weather-dependent bg images, weather description.
+
+**Thoughts**: Tomorrow I want to figure out how to change images between sunset and sunrise to a nighttime image.
+
+
+
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
 2. Wishlist
