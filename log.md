@@ -653,7 +653,24 @@
 
 **Thoughts**: Tomorrow I want to figure out how to change images between sunset and sunrise to a nighttime image.
 
+### Day 88: December 23, Saturday
 
+**Today's Progress**: Started week 4's CS50 lecture until I started falling asleep.
+
+### Day 89: December 24, Sunday
+
+**Today's Progress**: Added bg images that change based on day/night time on weather app. Also adjusted weather description to say today/tonight based on time. Made portfolio hovers mobile-friendly. Pushed both updates to GitHub.
+
+**Thoughts**: I can improve the weather app more by refactoring. Specifically the bg images, lots of repetition there. Need to remember to clear Chrome's caches when pushing new code to AWS. Ran into some unneccessary frustration with the portfolio because of it.
+
+### Day 90: December 25, Monday
+
+**Today's Progress**: Read and took notes on chapters 1 and 2 of JavaScript & jQuery by Jon Duckett.
+
+**Thoughts**: Got the book for Christmas from my wishlist and I'm loving it. It's mostly review right now, but I still learned from today, so I'll read the whole book through to get a deeper understanding of what's going on in my code.
+
+**Links**
+1. [Taking notes in this GitHub repo](https://github.com/mdt2/javascript-jquery-jon-duckett)
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
