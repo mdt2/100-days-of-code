@@ -672,6 +672,18 @@
 **Links**
 1. [Taking notes in this GitHub repo](https://github.com/mdt2/javascript-jquery-jon-duckett)
 
+### Day 91: December 27, Wednesday
+
+**Today's Progress**: Read and took notes on chapter 3 of JavaScript & jQuery by Jon Duckett.
+
+**Thoughts**: Took a sick day yesterday due to nausea. Not much better today, but I started earlier in the day so I had time to take breaks when needed.
+
+### Day 92: December 28, Thursday
+
+**Today's Progress**: Worked collaboratively to write a spec doc for a new health app.
+
+**Thoughts**: Spent time thinking through the assets we need, how to organize the app, ideas for UI and logistics. All for a minimum viable product, but included some info for future explorations. Came up with a plan of attack for tomorrow! :D
+
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
 2. Wishlist
