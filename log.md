@@ -682,7 +682,28 @@
 
 **Today's Progress**: Worked collaboratively to write a spec doc for a new health app.
 
-**Thoughts**: Spent time thinking through the assets we need, how to organize the app, ideas for UI and logistics. All for a minimum viable product, but included some info for future explorations. Came up with a plan of attack for tomorrow! :D
+**Thoughts**: Spent time thinking through the assets we need, how to organize the app, ideas for UI and logistics. All for a minimum viable product, but included some info for future explorations. Came up with a plan of attack for the next session! :D
+
+### Day 93: December 29, Friday
+
+**Today's Progress**: Watched a vid about JS concurrency and promises.
+
+**Thoughts**: Made me curious to better understand callback functions and apply them in my code.
+
+**Links**
+1. [Modern JS Concurrency](https://t.co/964Bov3Hjz)
+
+
+### Day 94: December 30, Saturday
+
+**Today's Progress**: Watched Coding Train's videos on Firebase. Also watched an intro video about Node.js.
+
+**Thoughts**: I guess Node.js is different from Firebase in that it's not a service, it's a lanugage you can use to create your own server locally? Whereas Firebase is database storage/creation as a service. I want to do Coding Train's coding challenge #45 tomorrow.
+
+**Links**
+1. [Coding Train Firebase](https://www.youtube.com/watch?v=JrHT1iqSrAQ&list=PLRqwX-V7Uu6agS82Le9lLCBbeaW8inATT)
+2. [Node.js intro](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
+
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
