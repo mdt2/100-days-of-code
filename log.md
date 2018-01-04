@@ -705,6 +705,32 @@
 2. [Node.js intro](https://www.youtube.com/watch?v=pU9Q6oiQNd0)
 
 
+### Day 95: December 31, Sunday
+
+**Today's Progress**: Refactored weather app with functions and switch statements. Learned about regex.
+
+**Thoughts**: Learned about switch statements for the changing backgrounds on the weather app. Watched some of Coding Train's series about regex.
+
+### Day 96: January 1, Monday
+
+**Today's Progress**: Worked on the health app. Looking into sprite packages, setting up Firebase and getting Google authentication up and running.
+
+**Thoughts**: Ran into problems with needing to store information after login when loading a new page. Figured out that's why people use JS frameworks, because it just hot loads the new content they need without reloading the page, so they don't lose the key that the user is already logged in. We're attempting to do that with local storage so that we can make the MVP in vanilla JS. Update: firebase does this for you. We good.
+
+
+### Day 97: January 2, Tuesday
+
+**Today's Progress**: Job hunting and interview practice questions today.
+
+**Thoughts**: Worked through fizzbuzz pretty successfully. Need to look more into closures in relation to loops, seems to be a common thing I miss on questions.
+
+### Day 98: January 3, Wednesday
+
+**Today's Progress**: Worked on health app implementing Sass, discussing art style, logistics, started basic styling.
+
+**Thoughts**: Tomorrow we'll get it wired up to Firebase that's already set up and continue basic styling.
+
+
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
 2. Wishlist
