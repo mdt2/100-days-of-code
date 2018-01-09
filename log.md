@@ -736,6 +736,12 @@
 
 **Thoughts**: Today's challenge was dynamically adding and removing food items from a div. I think it's not working because the variable is updated every time the anonymous function runs, so the event listener is only attached to the most recently added food item. Maybe we could fix this by using an array to store all of the variable items (counted items) and index through those on an event listener?
 
+### Day 100: January 5, Friday
+
+**Today's Progress**: Health app work with JS.
+
+**Thoughts**: It's been a great challenge! Going to write up a summary about round 1 to address what I accomplished and set goals for when I decide to start round 2.
+
 
 **Project Ideas**
 1. Plugin for Twitter so that it doesn't exit out of your tweet until you hit the close icon HMPH
